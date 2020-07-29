@@ -2,8 +2,8 @@
 
 I'm a web designer and developer. I built [Maridon-Marketing](https://maridonmarketing.com), IT company that is all about building websites, softwares, microservices, applications and  going strong for 10 years.
 
-Connect on [LinkedIn](https://www.linkedin.com/in/geetpurwar/)
-Hire on [Upwork](https://www.upwork.com/fl/geetp)
+> Connect on [LinkedIn](https://www.linkedin.com/in/geetpurwar/)
+> Hire on [Upwork](https://www.upwork.com/fl/geetp)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
