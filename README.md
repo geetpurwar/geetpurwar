@@ -101,7 +101,7 @@ Full-stack AI engineer and indie maker from **India** — I build products that 
 <div align="center">
 
 [![expo-aac-to-m4a](https://img.shields.io/npm/v/expo-aac-to-m4a?label=expo-aac-to-m4a&style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/expo-aac-to-m4a)
-[![expo-speech-transcriber](https://img.shields.io/npm/v/@geetpurwar/expo-speech-transcriber-multi-lang?label=expo-speech-transcriber&style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@geetpurwar/expo-speech-transcriber-multi-lang)
+[![expo-speech-transcriber](https://img.shields.io/npm/v/@geetpurwar/expo-speech-transcriber-multilang?label=expo-speech-transcriber&style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/package/@geetpurwar/expo-speech-transcriber-multilang)
 
 </div>
 
