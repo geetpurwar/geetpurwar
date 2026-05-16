@@ -110,3 +110,74 @@ Full-stack AI engineer and indie maker from **India** — I build products that 
 <div align="center">
   💬 Open to interesting AI projects &nbsp;·&nbsp; <a href="https://twitter.com/geetpurwar">@geetpurwar</a> &nbsp;·&nbsp; India 🇮🇳
 </div>
+
+---
+
+## 💬 What Clients Say
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Berna Erol** · Group Product Manager, Google
+> *"One of the most talented web developers I've worked with. A task that would take other developers days or weeks, Geet is able to do within hours because of his extensive knowledge. Very smart, responsive, reliable and fun to work with."*
+
+⭐⭐⭐⭐⭐ — 6+ years working together
+
+</td>
+<td width="50%" valign="top">
+
+**David Crowley** · Co-Founder, Cerca Cultivation
+> *"I wholeheartedly endorse Geet Purwar, our invaluable technology partner for over a decade. He's not just a developer — he's a true strategic partner. His forward-thinking strategies consistently yield solutions that drive both user satisfaction and business efficiency."*
+
+⭐⭐⭐⭐⭐ — 10+ year partnership
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Sharon Watkins, MBA PMP** · Agile PM, UNDP *(190+ countries)*
+> *"At a critical moment in the launch of a new platform, Geet provided guidance that resolved a critical stumbling-block in the implementation. Thanks to his input, the issue was resolved. Would recommend Geet to anyone seeking detailed and expert technical guidance."*
+
+⭐⭐⭐⭐⭐ · [📹 Video Testimonial](https://www.linkedin.com/in/geetpurwar/)
+
+</td>
+<td width="50%" valign="top">
+
+**Ben Branch** · Founder, Silodrome *(millions of readers)*
+> *"Geet is a phenomenal developer. Excellent communication skills, able to work on tasks solo to completion. He has a good eye for detail and we're very glad we found him."*
+
+⭐⭐⭐⭐⭐
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Luciana Flora** · Principal UX Designer, UnitedHealthcare
+> *"Geet is extremely reliable and efficient. He has never let me down — quick to deliver high-quality work and always exceeds expectations. A great professional and very friendly, making communication really easy."*
+
+⭐⭐⭐⭐⭐ · Multiple projects
+
+</td>
+<td width="50%" valign="top">
+
+**Marcus Toussaint** · Product Manager, SeedCompany
+> *"Geet's dedication to project management showcased his versatility. He consistently delivered high-quality work, bridging the gap between stakeholders across continents. A level of professionalism that is second to none."*
+
+⭐⭐⭐⭐⭐
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/geetpurwar/details/recommendations/">
+    <img src="https://img.shields.io/badge/14%2B_LinkedIn_Recommendations-View_All-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/geetpurwar">
+    <img src="https://img.shields.io/badge/Top_Rated_Plus-$300K%2B_Earned-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</div>
